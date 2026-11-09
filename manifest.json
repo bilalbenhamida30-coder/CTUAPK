@@ -1,0 +1,29 @@
+{
+  "name": "Oilfield Converter Pro | ALSCIF",
+  "short_name": "ALSCIF Tools",
+  "description": "Field conversions, coiled tubing calculations and job reporting.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a1a2b",
+  "theme_color": "#0a1a2b",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
